@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DBExample</string>
+    <string name="insert_button_value">Insert!</string>
+    <string name="select_button_value">Select!</string>
+</resources>
